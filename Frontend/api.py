@@ -1,6 +1,6 @@
 import responder
 
-api = responder.API(enable_hsts=True)
+api = responder.API()
 
 user = "Merlin"
 
